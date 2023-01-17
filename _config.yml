@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: "/informationcity.github.io"
-url: "https://Serra53.github.io"
+baseurl: "/informationcity.github.io/"
+url: "https://serra53.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
 title: Information City                                 # site's title
